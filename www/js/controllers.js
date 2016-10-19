@@ -5,9 +5,9 @@ angular.module('starter.controllers', [])
 })
 
 .controller('CronogramaCtrl', function($scope){
-  $scope.cronograma = [{
+  $scope.cronogramas = [{
     id: 0,
-    dia: 1,
+    dia: '18:10',
 
     evento: [{
       participante: 'Osmir',
