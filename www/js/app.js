@@ -63,7 +63,8 @@ angular.module('starter', ['ionic', 'starter.controllers'])
     url: '/cronograma',
     views: {
       'menuContent': {
-        templateUrl: 'templates/cronograma.html'
+        templateUrl: 'templates/cronograma.html',
+        controller: 'CronogramaCtrl'
       }
     }
   });
