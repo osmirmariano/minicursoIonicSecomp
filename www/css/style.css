@@ -1,0 +1,15 @@
+/* Empty. Add your own CSS if you like */
+.inicio {
+  background-color: #383838;
+}
+
+.inicio h2, h4{
+  color: white;
+}
+
+.inicio .h3{
+  color: blue;
+}
+.img-responsive{
+  max-width: 100%;
+}
